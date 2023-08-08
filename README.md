@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andre Grassi
-- 🎂 I'm 18 years old
+- 🎂 I'm 19 years old
 - 👀 I’m interested in web development 👨🏼‍💻
-- 🌱 I’m currently learning React, TypeScript and Bootstrap 5
+- 🌱 I’m studying Computer Science in UFPR
 - 📫 How to reach me: andregrassi.j@gmail.com or instagram: @andre.grassi0
 <!---
 Andre-Grassi/Andre-Grassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
