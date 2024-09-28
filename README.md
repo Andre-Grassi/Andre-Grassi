@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andre Grassi
-- 🎂 I'm 19 years old
-- 👀 I’m interested in web development 👨🏼‍💻
+- 🎂 I'm 20 years old
+- 👀 I’m interested in web development, computer architecture and game dev 👨🏼‍💻
 - 🌱 I’m studying Computer Science in UFPR
 - 📫 How to reach me: andregrassi.j@gmail.com 
 <!---
